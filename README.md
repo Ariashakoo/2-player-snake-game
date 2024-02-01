@@ -1,2 +1,7 @@
 # 2-player-snake-game
 a 2 player snake game with bombs and sounds for windows
+to make the graphical shapes of the Mainn.cpp file please open region from your laptop
+then from administrative -> language for non unicode programs -> system -> local change then click use unicode UTF-8
+the other 2 files are the other versions with changed graphics
+but Mainn.cpp is the main project
+enjoy the 2 player game from terminal :)

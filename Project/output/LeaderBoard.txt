@@ -1,0 +1,5 @@
+bob - 30
+peter - 10
+hello - 0
+1 - 0
+will - 0

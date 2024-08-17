@@ -51,7 +51,7 @@ Coord player1, player2, Fruit, bomb;
 int tail_length1, tail_length2;
 // COORD coord = {0,0};
 
-void hidecursor() // a solution for the showing of cursur.
+void hidecursor() // a solution for the showing of cursor.
 {
     HANDLE consoleHandle = GetStdHandle(STD_OUTPUT_HANDLE);
     CONSOLE_CURSOR_INFO info;
